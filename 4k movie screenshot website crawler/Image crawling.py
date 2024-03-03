@@ -9,7 +9,7 @@ import urllib.parse
 START_URL = 'https://highdefdiscnews.com/'
 
 # 定义要抓取的特定文章页面的URL
-ARTICLE_URL = 'https://highdefdiscnews.com/2022/03/25/ghostbusters-afterlife-4k-uhd-blu-ray-screenshots/'
+ARTICLE_URL = 'https://highdefdiscnews.com/2019/10/02/gremlins-4k-uhd-blu-ray-screenshots/'
 
 # 定义图片URL的格式
 IMAGE_URL_FORMAT = 'https://highdefdiscnews.com/wp-content/uploads/{}/{}'
